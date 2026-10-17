@@ -143,8 +143,3 @@ SmartInstitute-CRM/
 ├── stop_project.bat        # 1-Click shutdown script
 └── package.json            # Project dependencies & scripts
 ```
-
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
