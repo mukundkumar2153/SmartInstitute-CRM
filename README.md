@@ -30,16 +30,6 @@ No tedious manual terminal setup required! Simply double-click:
 
 ---
 
-## 🔑 Quick Access Demo Accounts
-
-| Role | Email | Password | Access Capabilities |
-| :--- | :--- | :--- | :--- |
-| **Admin** | `admin@smartinstitute.com` | `password123` | Full institute dashboard, student management, fees ledger, settings |
-| **Teacher** | `kulkarni.teacher@smartinstitute.edu` | `password123` | Mark daily attendance, enter student test marks, timetable |
-| **Student** | `aarav.sharma@smartinstitute.edu` | `password123` | Personalized report card, attendance tracker, fee receipts |
-
----
-
 ## 🚀 Key Modules & Capabilities
 
 ### 1. 📊 Executive Admin Dashboard
