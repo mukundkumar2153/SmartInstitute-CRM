@@ -14,14 +14,6 @@
 
 ---
 
-## 📸 Application Preview
-
-<p align="center">
-  <img src="screenshots/dashboard.png" alt="SmartInstitute CRM Admin Dashboard" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.12);" />
-</p>
-
----
-
 ## ⚡ 1-Click Launch (Windows)
 
 No tedious manual terminal setup required! Simply double-click:
